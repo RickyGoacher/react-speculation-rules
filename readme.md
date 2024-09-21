@@ -6,6 +6,8 @@ React component for setting pre-render and pre-fetch speculation rules using the
 
 - Specify the rules for pre-fetching and pre-rendering resources and pages using the speculation rules API.
 
+- This component generates a `<script>` tag with speculation rules, so it's recommended to place the component towards the bottom of the page.
+
 ## How to use
 
 ### Install
